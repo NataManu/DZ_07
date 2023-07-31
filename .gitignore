@@ -1,1 +1,4 @@
-.*
+.venv/
+build/
+clean_folder.egg-info/
+main.py
